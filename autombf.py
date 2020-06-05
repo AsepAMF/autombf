@@ -2,8 +2,8 @@
 
 """
 * Jangan Recode Ya Goblok
-* Author : V4N654T
-* Github : https://github.com/V4N654T
+* Author : Asep Maulana RosAmf
+* Github : https://github.com/AsepAMF
 -------------------------------------------------------
 * Name Tools : Auto MBF
 * Full Name : Auto Multi-Bruteforce-Facebook
